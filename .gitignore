@@ -1,7 +1,7 @@
 *.class
 *.xsd
 .idea
-
+.git
 # Package Files #
 *.jar
 *.war
@@ -9,3 +9,4 @@
 *.iml
 
 generate.sh
+target
