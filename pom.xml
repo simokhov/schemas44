@@ -6,7 +6,7 @@
 
     <groupId>com.sstd</groupId>
     <artifactId>eis44scheme</artifactId>
-    <version>7.5.2</version>
+    <version>7.5.8</version>
     <packaging>jar</packaging>
     <name>EIS-44 Schemes</name>
 
